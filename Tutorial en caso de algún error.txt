@@ -1,0 +1,9 @@
+Tutorial en caso de algún error:
+
+Esperar al menos 5 u 8s al entrar a la página.
+Salir o entrar de la página.
+El porqué de los errores y cuales pueden ser:
+1.El IFRAME de la página web es de USA, y por eso su tardanza.
+2.El contador es online, su código es copia de una base de datos, entonces puede que a veces no sume el contador , porqué tiene momentos de lag. Para que sume las visitas tienes que darle a la barra de update o F5.
+
+Gracias por leer.
