@@ -1,0 +1,1 @@
+El proyecto consta con información sobre el código, librerías externas, ayudas externas como sliders hechos para usar directamente a páginas webs y enlaces a estos videos para demostrar como poder hacerlo.
